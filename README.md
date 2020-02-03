@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/v-ycorr/PipelinePractice/_apis/build/status/YusC3.pipelines-java?branchName=master)](https://dev.azure.com/v-ycorr/PipelinePractice/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
